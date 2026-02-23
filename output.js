@@ -1,21 +1,6 @@
-//Mon Feb 23 2026 14:17:32 GMT+0000 (Coordinated Universal Time)
+//Mon Feb 23 2026 15:38:57 GMT+0000 (Coordinated Universal Time)
 //Base:<url id="cv1cref6o68qmpt26ol0" type="url" status="parsed" title="GitHub - echo094/decode-js: JS混淆代码的AST分析工具 AST analysis tool for obfuscated JS code" wc="2165">https://github.com/echo094/decode-js</url>
 //Modify:<url id="cv1cref6o68qmpt26olg" type="url" status="parsed" title="GitHub - smallfawn/decode_action: 世界上本来不存在加密，加密的人多了，也便成就了解密" wc="741">https://github.com/smallfawn/decode_action</url>
-process.env.wdxnz = 'JGezVZNtyknLFugOfbiqElASlCrNImcQ#7ade7822b2bead51#ec20fa5a2d3a958b#02:00:00:00:00:00#860661058179175#M2012K11AC#yaoqing';
-process.env.wdxnz_order = '1';
-process.env.wdxnz_level = '130';
-(async () => {
-  try {
-    const wdxnzValue = process.env.wdxnz;
-    if (wdxnzValue) {
-      console.log(`内置环境变量wdxnz已生效，值为：${wdxnzValue}`);
-    } else {
-      console.log("环境变量wdxnz未找到");
-    }
-  } catch (e) {
-    console.log(`读取环境变量出错：${e.message}`);
-  }
-})();
 !function () {
   'use strict';
 
